@@ -1,0 +1,6 @@
+Observations: Analyzing The Data:
+    1. Top Performing Schools are All Charter while Bottom Performing Schools are all district.
+    2. Average_Math Scores and Average_Reading Scores stays consitent across all grades within all schools.
+    3. Lower Score averages showing more with higher spending ranges. Higher spending budget schools are showing lower            performanace and that's true for all bottom performing schools.
+    4. Smaller Capacity Schools are showing higher performance across reading and math Scores
+    5. Dirstrict Schools are performaing worse than Charter Schools acorss Spending budget and Size. 
